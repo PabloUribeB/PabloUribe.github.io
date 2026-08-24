@@ -10,7 +10,7 @@ redirect_from:
 <section class="home-hero">
   <div class="home-hero__copy">
     <p class="home-hero__lead">
-     I am an incoming PhD student in Economics at the Kenneth C. Griffin Department of Economics at the University of Chicago. My work studies how institutions and policy shape educational trajectories, labor markets, and health outcomes.
+     I am a first year PhD student in Economics at the Kenneth C. Griffin Department of Economics at the University of Chicago. My work studies how institutions and policy shape educational trajectories, labor markets, and health outcomes.
     </p>
     <div class="home-hero__actions">
       <a class="home-pill home-pill--primary" href="/publications/">View research</a>
